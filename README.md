@@ -37,9 +37,13 @@ The files `TTCv2_predict_from_scenarios` and `TTCv3_predict_from_scenarios` read
 ## Citation
 If you use this repository in your research, please cite:
 
+```bibtex
 @article{behera2025improved,
 title={An improved two-dimensional time-to-collision for articulated vehicles: predicting sideswipe and rear-end collisions},
 author={Behera, Abhijeet and Kharrazi, Sogol and Frisk, Erik and Aramrattana, Maytheewat},
 journal={arXiv preprint arXiv:2507.04184},
 year={2025}
 }
+```
+
+
