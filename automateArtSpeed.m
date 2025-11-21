@@ -4,7 +4,7 @@ clear
 close all
 
 %% Define parameters
-basePath = "...\SimData\";
+basePath = "...\Simulation Data\";
 lengths = [11, 13, 15];
 collisionTypes = ["Lateral", "Rear"];
 versions = ["c0","c1","c2","c3","c4"];
@@ -392,6 +392,7 @@ function [long_accel_v2_in_v1, lat_accel_v2_in_v1] = transformAccelerations(head
     long_accel_v2_in_v1 = accel_v2_in_v1_frame(1);
     lat_accel_v2_in_v1 = accel_v2_in_v1_frame(2);
 end
+
 
 
 
