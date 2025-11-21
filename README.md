@@ -1,7 +1,7 @@
 # Collision Risk Assessment for Tractor-Semitrailer Vehicles
 
 ## Overview
-This repository provides the data and code for assessing collision risk for tractor-semitrailer vehicles using two-dimensional time-to-collision (TTC).
+This repository provides the data and code for assessing collision risk for tractor-semitrailer vehicles using two-dimensional time-to-collision.
 
 ## Data Description
 The `Simulation data` folder contains 30 `.csv` files, with 15 rear-end and 15 sideswipe collision scenarios. The files are named, for example, `vehicle_dataLateral_11_c0`. Here:  
