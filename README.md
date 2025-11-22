@@ -28,11 +28,12 @@ Each simulation file contains the following columns, with each row representing 
 | `yaw3`, `pitch3`, `roll3`  | Orientation angles of the car              |
 | `delta`                     | Steering input of the tractor-semitrailer  |
 
-**Example row:**
-
 
 ## Code Description
 The files `TTCv2_predict_from_scenarios` and `TTCv3_predict_from_scenarios` read all scenarios and output time-to-collision estimates at 1, 1.38, and 2 seconds for both versions for each scenario.
+
+## Rear-end collision
+![RearEnd](RearEnd.gif)
 
 ## Citation
 If you use this repository in your research, please cite:
